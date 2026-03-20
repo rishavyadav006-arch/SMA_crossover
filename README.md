@@ -49,11 +49,19 @@ Export → Save results and charts for review
 SAMPLE OUTPUT METRICS :
 
 Total Return:             +47.32%
+
 Buy & Hold Return:        +32.15%
+
 Annualised Return:        +15.67%
+
 Sharpe Ratio:             1.43
+
 Max Drawdown:            -12.45%
+
 Total Trades:             24
+
 Wins / Losses:            15 / 9
+
 Win Rate:                 62.5%
+
 Final Portfolio:          $14,732.00
