@@ -1,0 +1,2 @@
+🔹 Overview
+SMA Crossover Trading Strategy Backtester is a comprehensive quantitative analysis tool that simulates and evaluates a simple moving average (SMA) crossover trading strategy on historical stock data. The application fetches real market data, simulated trades based on predefined rules, calculates performance metrics, and generates professional-grade visual reports. This tool allows traders and investors to quantitatively assess the viability of a momentum-based trading strategy before risking actual capital.
