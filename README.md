@@ -1,9 +1,9 @@
-🔹 Overview:
+#🔹 Overview:
 
 SMA Crossover Trading Strategy Backtester is a comprehensive quantitative analysis tool that simulates and evaluates a simple moving average (SMA) crossover trading strategy on historical stock data. The application fetches real market data, simulated trades based on predefined rules, calculates performance metrics, and generates professional-grade visual reports. This tool allows traders and investors to quantitatively assess the viability of a momentum-based trading strategy before risking actual capital.
 
 
-🔹 Primary Objectives:
+#🔹 Primary Objectives:
 
 1. Strategy Validation: Evaluate whether a basic SMA crossover strategy generates alpha (excess returns) compared to a simple buy-and-hold approach
 
@@ -16,7 +16,7 @@ SMA Crossover Trading Strategy Backtester is a comprehensive quantitative analys
 5. Decision Support: Enable informed investment decisions by providing quantitative evidence of strategy effectiveness across different market conditions.
 
 
-🔹 Detailed Library Functions:
+#🔹 Detailed Library Functions:
 
 1. yfinance (yf): Retrieves Open, High, Low, Close, volume data supports multi-stock downloads, handles automatic date parsing.
 2. pandas(pd) : Handling missing data with dropna() , rolling window calculations for technical indicators, time series indexing for date-based operations.
@@ -24,10 +24,10 @@ SMA Crossover Trading Strategy Backtester is a comprehensive quantitative analys
 4. matplotlib : for plotting charts
 
 
-📈 Technical Architecture
+#📈 Technical Architecture
 
 
-Data Flow:
+##Data Flow:
 
 Input Collection → User provides stock symbol, date range, capital, and SMA parameters
 
@@ -46,7 +46,7 @@ Visualization → matplotlib generates comprehensive 4-panel dashboard
 Export → Save results and charts for review
 
 
-SAMPLE OUTPUT METRICS :
+###SAMPLE OUTPUT METRICS :
 
 Total Return:             +47.32%
 
